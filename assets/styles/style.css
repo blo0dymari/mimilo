@@ -1,0 +1,2122 @@
+@import url(./fonts.css);
+body{
+    background-image: url(../img/background.jpg);
+    font-family: "Montserrat";
+    background-size: cover;
+}
+
+.container .principi{
+    color: rgb(141, 127, 109);
+    display: flex;
+    width: 270px;
+    justify-content: space-between;
+    font-size: 15px;
+    align-items: center;
+}
+.container .principi img{
+    height: 20px;
+}
+
+.container .history{
+    color: rgb(141, 127, 109);
+    display: flex;
+    width: 165px;
+    justify-content: space-between;
+    font-size: 15px;
+    align-items: center;
+}
+
+.container .logo{
+    color: rgb(92, 87, 80);
+    font-size: 25px;
+    font-family: "Cormorant_Infant";
+    font-weight: 800;
+    margin-left: 30px;
+}
+.container{
+    width: 1200px;
+    display: flex;
+    justify-content: space-between;
+}
+.section-navigation{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 50px;
+}
+.section-navigation:nth-child(2){
+    display: flex;
+    justify-content: center;
+    margin-bottom: 700px;
+}
+.krasota .photo img{
+   height: 230px; 
+}
+.krasota .photos img:nth-child(1){
+    height: 150px; 
+    margin-right: 250px;
+}
+.krasota .photos img:nth-child(2){
+    height: 600px;
+}
+.krasota .photos img:nth-child(3){
+    position: relative; 
+    right: 75px;
+    top: 75px;
+}
+.krasota .photos{
+    height: 100px;
+    width: 1200px;
+    display: flex;
+    align-items: end;
+    justify-content: end;
+    position: relative;
+    top: 400px;
+    margin-left: 50px;
+}
+.krasota p{
+    color: rgb(92, 87, 80);
+    font-family: "Cormorant_Infant";
+    font-weight: 300;
+    font-size: 90px;
+    position: relative;
+    bottom: 100px;
+    display: flex;
+    flex-wrap: wrap;
+    width: 300px;
+    margin-left: 150px;
+}
+.text{
+    position: absolute;
+}
+
+.podzagolovok{
+    display: flex;
+    align-items: center;
+
+}
+
+.podzagolovok p{
+    color: rgb(126, 116, 104);
+    font-family: "Cormorant_Infant";
+    font-size: 60px;
+    font-style: italic;
+    width: 1000px;
+    line-height: 100%;
+}
+
+
+.podzagolovok img{
+    height: 300px;
+    position: relative;
+    right: 50px;
+    bottom: 20px;
+}
+
+.section-milo{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 50px;
+    
+}
+
+.container1{
+    display: grid;
+    width: 1900px;
+    margin-left: 600px;
+}
+
+.milo-milo{
+    width: 1900px;
+}
+
+.tovari{
+    display: flex;
+    width: 1550px;
+    margin-top: 50px;
+    margin-left: 50px;
+    align-items: center;
+}
+
+
+
+.textt{
+    display: flex;
+    font-family: "Cormorant_Infant";
+    width: 160px;
+    justify-content: space-between;
+    margin-left: 50px;
+}
+
+.beloe{
+    margin-bottom: 140px;
+    margin-left: 200px;
+}
+
+.beloe img{
+    width: 400px;
+    height: 400px;
+}
+
+.miloo{
+    display: flex;
+    gap: 220px;
+}
+
+.texttt{
+    display: flex;
+    justify-content: space-between;
+    color: rgb(141, 127, 109);
+}
+
+.plusik{
+    font-size: 30px;
+    border: 1px solid rgb(141, 127, 109);
+    padding: 1px 10px;
+    border-radius: 100%;
+    color: rgb(141, 127, 109);
+}
+
+.section-minimalism{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 50px;
+}
+
+.textttt{
+    display: flex;
+    font-family: "Cormorant_Infant";
+    width: 130px;
+    justify-content: space-between;
+}
+
+.textik{
+    width: 250px;
+    height: 100px;
+}
+
+.texttttt{
+    width: 500px;
+    height: 100px;
+    font-family: "Cormorant_Infant";
+    font-size: 20px;
+    margin-bottom: 20px;
+
+}
+
+.text2{
+    display: flex;
+}
+
+.text1{
+    width: 700px;
+    font-family: "Cormorant_Infant";
+    font-size: 65px;
+    font-style: italic;
+    color: rgb(92, 87, 80);
+}
+
+.text2 img{
+    height: 50px;
+    width: 50px;
+    border-radius: 100%;
+}
+
+.imgg{
+    margin-left: 10px;
+    margin-top: 15px;
+    color: rgb(141, 127, 109);
+}
+
+.imgg .mila{
+    text-decoration: underline;
+    color: rgb(141, 127, 109);
+}
+
+.photochki{
+    margin-left: 400px;
+    gap: 20px;
+    height: 800px;
+}
+
+.container2{
+    width: 1350px;
+    display: flex;
+    margin-left: 140px;
+    justify-content: space-between;
+}
+
+.photochki :nth-child(1){
+    margin-right: 20px;
+    position: relative;
+    left: 40px;
+}
+
+.photochki :nth-child(2){
+    margin-right: 20px;
+    position: relative;
+    bottom: 70px;
+    left: 50px;
+}
+
+.photochki :nth-child(3){
+    position: relative;
+    bottom: 500px;
+    left: 755px;
+}
+
+.section-info{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 50px;
+}
+
+.informacia{
+    display: flex;
+    gap: 55px;
+}
+
+.infa:nth-child(1){
+    width: 350px;
+    font-size: 25px;
+    display: flex;
+    flex-direction: column;
+    color: rgb(141, 127, 109);
+    font-family: "Cormorant_Infant";
+    font-style: italic;
+
+}
+
+
+.infa:nth-child(2){
+    height: 70px;
+    width: 350px;
+    color: rgb(141, 127, 109);
+    font-family: "Cormorant_Infant";
+    font-style: italic;
+    font-size: 25px;
+    margin-top: 10px;
+}
+
+.infa:nth-child(3){
+    height: 70px;
+    width: 350px;
+    color: rgb(141, 127, 109);
+    font-family: "Cormorant_Infant";
+    font-style: italic;
+    font-size: 25px;
+}
+
+.ikonka{
+    display: grid;
+    justify-content: center;
+}
+
+.container4{
+    display: grid;
+    justify-content: center;
+
+}
+
+.section-zakaz{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 50px;
+}
+
+.zadnii-text p{
+    color: rgba(97, 89, 77, 0.212);
+    font-family: "Cormorant_Infant";
+    font-size: 150px;
+    line-height: 0;
+    display: grid;
+    text-align: center;
+    font-weight: bold;
+}
+
+.devyshka{
+    background-image: url(/assets/img/13.jpg);
+    background-size: cover;
+    width: 620px;
+    height: 400px;
+    position: relative;
+    bottom: 550px;
+    left: 570px;
+}
+
+.a{
+    display: grid;
+    height: 100px;
+    width: 500px;
+    font-size: 25px;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-weight: 100;
+    margin-top: 80px;
+    margin-left: 60px;
+}
+
+.b{
+    color: rgb(255, 255, 255);
+    font-weight: 100;
+    font-size: 23px;
+    border-radius: 30px;
+    margin-left: 220px;
+    margin-top: 100px;
+    border: 1px solid rgb(245, 237, 228);
+    width: 180px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.section-milos{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 50px;
+    position: relative;
+    bottom: 400px;
+}
+
+.kogda-vse{
+    display: flex;
+    justify-content: center;
+}
+
+.photosi{
+    width: 2000px;
+    display: flex;
+    justify-content: space-between;
+}
+.photosi img{
+    height: 350px;
+}
+
+.mi{
+    text-decoration: underline;
+    color:rgb(141, 127, 109);
+}
+
+.kogda-vse p{
+    color:rgb(141, 127, 109)
+}
+
+.kogda-vse img{
+    margin-right: 10px;
+}
+
+.section-yxod{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 50px;
+    background-size: cover;
+
+    position: relative;
+    bottom: 400px;
+   
+}
+
+
+.section-milos{
+    display: flex;
+    justify-content: center;
+}
+
+.container6{
+    background-image: url(../img/19.jpg);
+    background-size: cover;
+    width: 2000px;
+    height: 550px;
+    display: flex;
+    justify-content: center;
+}
+
+.yxodik{
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+}
+
+.love{
+    width: 450px;
+    display: grid;
+    height: 200px;
+    color: rgb(77, 72, 66);
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.regis{
+    width: 450px;
+    display: grid;
+    height: 200px;
+    color: rgb(77, 72, 66);
+    margin-left: 100px;
+    margin-right: 100px;
+    gap: 30px;
+}
+
+.pomogiti{
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    width: 1200px;
+}
+
+.love .d{
+    color: rgb(77, 72, 66);
+    font-family: "Cormorant_Infant";
+    font-style: italic;
+    font-size: 20px;
+
+
+}
+
+.knopka p{
+    color:  rgb(141, 127, 109);
+    text-transform: uppercase;
+    border: 1px solid  rgb(141, 127, 109);
+    padding: 15px 30px;
+    border-radius: 30px;
+    width: 100px;
+    margin-left: 530px;
+}
+
+.registracia p{
+    border-bottom: solid 1px  ;
+    margin-bottom: 30px;
+    color:  rgb(141, 127, 109);
+}
+
+.love .c{
+    width: 500px;
+    font-family: "Cormorant_Infant";
+    font-size: 55px;
+    font-style: italic;
+    color: rgb(92, 87, 80);
+}
+
+footer{
+    display: flex;
+    justify-content: center;
+    align-items: end;
+}
+
+.foot{
+    background-image: url(/assets/img/20.jpg);
+    background-size: cover;
+    height: 400px;
+    width: 2000px;
+    position: relative;
+    bottom: 450px;
+
+}
+
+.container7{
+    width: 1150px;
+    height: 550px;
+    display: flex;
+    margin-left: 400px;
+    justify-content: space-between;
+}
+
+.miloooooo{
+    margin-top: 80px;
+    width: 250px;
+
+}
+
+
+.sankttt{
+    margin-top: 150px;
+    width: 450px;
+    margin-left: 70px;
+    color: rgb(141, 127, 109);
+    font-weight: bold;
+}
+
+.imggg{
+    margin-top: 180px;
+    width: 200px;
+    display: flex;
+    justify-content: space-between;
+
+
+}
+
+.imggg .pochti{
+    height: 50px;
+    width: 50px;
+    border: 1px solid rgb(170, 162, 152);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+}
+
+.imggg .pochti1{
+    height: 45px;
+    width: 45px;
+    border: 1px solid rgb(170, 162, 152);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+}
+
+.imggg .pochti2{
+    height: 45px;
+    width: 45px;
+    border: 1px solid rgb(170, 162, 152);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+}
+
+
+.miloooooo p:nth-child(1){
+    color: rgb(214, 214, 214);
+    font-size: 35px;
+    font-family: "Cormorant_Infant";
+    margin-bottom: 10px;
+}
+
+.miloooooo p:nth-child(2){
+    color: rgb(141, 127, 109);
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.ok{
+    font-size: 15px;
+    margin-top: 40px;
+    color: rgb(141, 127, 109);
+    font-weight: bold;
+}
+
+
+
+@media (max-width: 1200px) {
+    .container{
+        width: 1140px;
+    }
+
+    .krasota p {
+        color: rgb(92, 87, 80);
+        font-family: "Cormorant_Infant";
+        font-weight: 300;
+        font-size: 70px;
+        position: relative;
+        bottom: 100px;
+        display: flex;
+        flex-wrap: wrap;
+        width: 300px;
+        margin-left: 150px;
+    }
+
+    .krasota .photos img:nth-child(2) {
+        height: 500px;
+        position: relative;
+        bottom: 80px;
+        right: 180px;
+    }
+
+    .krasota .photos img:nth-child(3) {
+        position: relative;
+        right: 270px;
+        top: 1px;
+    }
+
+    .krasota .photo img {
+        height: 200px;
+    }
+
+    .podzagolovok p {
+        color: rgb(126, 116, 104);
+        font-family: "Cormorant_Infant";
+        font-size: 50px;
+        font-style: italic;
+        width: 900px;
+        line-height: 100%;
+        position: relative;
+        left: 30px;
+    }
+
+    .podzagolovok img {
+        height: 200px;
+        position: relative;
+        right: 50px;
+        bottom: 20px;
+    }
+
+    .milo-milo {
+        width: 900px;
+    }
+
+    .miloo {
+        display: flex;
+        gap: 50px;
+    }
+
+    .container1 {
+        display: grid;
+        width: 1900px;
+        margin-left: 0px; 
+    }
+
+    .tovari {
+        display: flex;
+        width: 900px;
+        margin-top: 50px;
+        margin-right: 400px;
+        align-items: center;
+    }
+
+    .texttt {
+        display: flex;
+        justify-content: space-between;
+        color: rgb(141, 127, 109);
+    }
+
+    .rosa img{
+        width: 350px;
+        height: 450px;
+    }
+
+    .ovsanoe img{
+        width: 350px;
+        height: 450px;
+    }
+
+    .beloe {
+        margin-left: 50px;
+        margin-top: 50px;
+    }
+
+    .beloe img{
+        width: 150px;
+        height: 350px;
+    }
+
+    .container2 {
+        width: 1350px;
+        display: flex;
+        margin-left: 50px;
+        justify-content: space-between;
+    }
+
+    .photochki :nth-child(1) {
+        margin-right: 20px;
+        position: relative;
+        left: -120px;
+        top: 600px;
+    }
+
+    .photochki :nth-child(2) {
+        margin-right: 20px;
+        position: relative;
+        top: 50px;
+        left: 100px;
+    }
+
+    .photochki img:nth-child(1){
+        height: 200px;
+        width: 200px;
+    }
+
+    .photochki img:nth-child(2){
+        height: 500px;
+
+    }
+
+    .photochki :nth-child(3) {
+        position: relative;
+        bottom: 380px;
+        left: 350px;
+    }
+
+    .informacia {
+        display: flex;
+        gap: 120px;
+    }
+
+    .infa:nth-child(1) {
+        width: 250px;
+        font-size: 20px;
+        display: flex;
+        flex-direction: column;
+        color: rgb(141, 127, 109);
+        font-family: "Cormorant_Infant";
+        font-style: italic;
+    }
+
+    .infa:nth-child(2) {
+        width: 250px;
+        font-size: 20px;
+        display: flex;
+        flex-direction: column;
+        color: rgb(141, 127, 109);
+        font-family: "Cormorant_Infant";
+        font-style: italic;
+    }
+
+    .infa:nth-child(3) {
+        width: 250px;
+        font-size: 20px;
+        display: flex;
+        flex-direction: column;
+        color: rgb(141, 127, 109);
+        font-family: "Cormorant_Infant";
+        font-style: italic;
+        margin-top: 10px;
+    }
+
+    .zadnii-text p {
+        color: rgba(97, 89, 77, 0.212);
+        font-family: "Cormorant_Infant";
+        font-size: 80px;
+        line-height: 0;
+        display: grid;
+        text-align: center;
+        font-weight: bold;
+    }
+
+    .devyshka {
+    background-image: url(/assets/img/13.jpg);
+    background-size: cover;
+    width: 420px;
+    height: 300px;
+    position: relative;
+    bottom: 350px;
+    left: 250px;
+}
+
+    .a {
+        display: grid;
+        height: 50px;
+        width: 400px;
+        font-size: 20px;
+        text-align: center;
+        color: rgb(255, 255, 255);
+        font-weight: 100;
+        margin-top: 30px;
+        margin-left: 10px;
+    }
+
+    .b {
+        color: rgb(255, 255, 255);
+        font-weight: 100;
+        font-size: 20px;
+        border-radius: 30px;
+        margin-left: 130px;
+        margin-top: 100px;
+        border: 1px solid rgb(245, 237, 228);
+        width: 180px;
+        height: 50px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .kogda-vse {
+        display: flex;
+        justify-content: center;
+        margin-top: 20px;
+    }
+
+    .photosi {
+        width: 1000px;
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .photosi img {
+        height: 150px;
+    }
+
+    .pomogiti {
+        display: grid;
+        align-items: center;
+        justify-content: center;
+        width: 1100px;
+    }
+
+
+    .regis {
+        width: 250px;
+        display: grid;
+        height: 200px;
+        color: rgb(77, 72, 66);
+        margin-left: 100px;
+        margin-right: 100px;
+        gap: 30px;
+    }
+
+    .knopka p {
+        color: rgb(141, 127, 109);
+        text-transform: uppercase;
+        border: 1px solid rgb(141, 127, 109);
+        padding: 15px 30px;
+        border-radius: 30px;
+        width: 100px;
+        margin-left: 450px;
+    }
+
+    .container7 {
+        width: 800px;
+        height: 550px;
+        display: flex;
+        margin-left: 100px;
+        justify-content: space-between;
+    }
+
+    .imggg {
+        margin-top: 180px;
+        width: 200px;
+        display: flex;
+        justify-content: space-between;
+        margin-right: 20px;
+    }
+
+    
+
+}
+@media (max-width: 992px) {
+    .container{
+        width: 960px;
+    }
+
+    .krasota .photos img:nth-child(3) {
+        position: relative;
+        right: 300px;
+        top: 0px;
+    }
+
+    .podzagolovok img {
+        height: 200px;
+        position: relative;
+        right: 100px;
+        bottom: 20px;
+    }
+
+    .beloe {
+        margin-left: 50px;
+        margin-top: 50px;
+    }
+
+    .beloe img{
+        width: 100px;
+        height: 300px;
+    }
+
+    .photochki :nth-child(3) {
+        position: relative;
+        bottom: 380px;
+        left: 310px;
+    }
+
+
+}
+@media (max-width: 768px) {
+    .container{
+        width:  740px;
+    }
+
+    .krasota p {
+        color: rgb(92, 87, 80);
+        font-family: "Cormorant_Infant";
+        font-weight: 300;
+        font-size: 50px;
+        position: relative;
+        bottom: 100px;
+        display: flex;
+        flex-wrap: wrap;
+        width: 300px;
+        margin-left: 150px;
+    }
+
+    .krasota .photos img:nth-child(2) {
+        height: 400px;
+        position: relative;
+        bottom: 200px;
+        right: 450px;
+    }
+
+    .krasota .photos img:nth-child(3) {
+        position: relative;
+        right: 550px;
+        top: -150px;
+    }
+
+    .krasota .photos img:nth-child(1) {
+        position: relative;
+        right: 300px;
+        top: -100px;
+    }
+
+    .krasota .photo img {
+        height: 150px;
+    }
+
+    .podzagolovok p {
+        color: rgb(126, 116, 104);
+        font-family: "Cormorant_Infant";
+        font-size: 35px;
+        font-style: italic;
+        width: 600px;
+        line-height: 100%;
+        position: relative;
+        left: 30px;
+    }
+
+
+    .milo-milo {
+        width: 800px;
+    }
+
+    .miloo {
+        display: flex;
+        gap: 20px;
+    }
+
+    .container1 {
+        display: grid;
+        width: 900px;
+        margin-left: 0px; 
+    }
+
+    .tovari {
+        display: flex;
+        width: 900px;
+        margin-top: 50px;
+        margin-right: 400px;
+        align-items: center;
+    }
+
+    .texttt {
+        display: flex;
+        justify-content: space-between;
+        color: rgb(141, 127, 109);
+    }
+
+    .rosa img{
+        width: 300px;
+        height: 400px;
+    }
+
+    .ovsanoe img{
+        width: 300px;
+        height: 400px;
+    }
+
+    .beloe {
+        margin-left: 20px;
+        margin-top: 20px;
+    }
+
+    .beloe img{
+        width: 100px;
+        height: 300px;
+    }
+
+    .container2 {
+        width: 700px;
+        display: flex;
+        margin-left: 50px;
+        justify-content: space-between;
+    }
+
+    .photochki :nth-child(1) {
+        margin-right: 20px;
+        position: relative;
+        left: -200px;
+        top: 600px;
+    }
+
+    .photochki :nth-child(2) {
+        margin-right: 20px;
+        position: relative;
+        top: 150px;
+        left: -70px;
+    }
+
+    .texttttt {
+        width: 300px;
+        height: 160px;
+        font-family: "Cormorant_Infant";
+        font-size: 20px;
+        margin-bottom: 20px;
+    }
+
+    .photochki img:nth-child(1){
+        height: 100px;
+        width: 100px;
+    }
+
+    .photochki img:nth-child(2){
+        height: 400px;
+
+    }
+
+    .photochki img:nth-child(3){
+        height: 300px;
+
+    }
+
+    .photochki :nth-child(3) {
+        position: relative;
+        bottom: 150px;
+        left: 140px;
+    }
+
+    .informacia {
+        display: flex;
+        gap: 15px;
+    }
+
+    .infa:nth-child(1) {
+        width: 230px;
+        font-size: 15px;
+        display: flex;
+        flex-direction: column;
+        color: rgb(141, 127, 109);
+        font-family: "Cormorant_Infant";
+        font-style: italic;
+    }
+
+    .infa:nth-child(2) {
+        width: 230px;
+        font-size: 15px;
+        display: flex;
+        flex-direction: column;
+        color: rgb(141, 127, 109);
+        font-family: "Cormorant_Infant";
+        font-style: italic;
+    }
+
+    .infa:nth-child(3) {
+        width: 230px;
+        font-size: 15px;
+        display: flex;
+        flex-direction: column;
+        color: rgb(141, 127, 109);
+        font-family: "Cormorant_Infant";
+        font-style: italic;
+        margin-top: 10px;
+    }
+
+    .zadnii-text p {
+        color: rgba(97, 89, 77, 0.212);
+        font-family: "Cormorant_Infant";
+        font-size: 80px;
+        line-height: 0;
+        display: grid;
+        text-align: center;
+        font-weight: bold;
+    }
+
+    .devyshka {
+    background-image: url(/assets/img/13.jpg);
+    background-size: cover;
+    width: 420px;
+    height: 300px;
+    position: relative;
+    bottom: 350px;
+    left: 150px;
+}
+
+    .a {
+        display: grid;
+        height: 50px;
+        width: 400px;
+        font-size: 20px;
+        text-align: center;
+        color: rgb(255, 255, 255);
+        font-weight: 100;
+        margin-top: 30px;
+        margin-left: 10px;
+    }
+
+    .b {
+        color: rgb(255, 255, 255);
+        font-weight: 100;
+        font-size: 20px;
+        border-radius: 30px;
+        margin-left: 120px;
+        margin-top: 100px;
+        border: 1px solid rgb(245, 237, 228);
+        width: 180px;
+        height: 50px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .kogda-vse {
+        display: flex;
+        justify-content: center;
+        margin-top: 20px;
+    }
+
+    .photosi {
+        width: 700px;
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .photosi img {
+        height: 100px;
+    }
+
+    .pomogiti {
+        display: grid;
+        align-items: center;
+        justify-content: center;
+        width: 1100px;
+    }
+
+
+    .regis {
+        width: 150px;
+        display: grid;
+        height: 200px;
+        color: rgb(77, 72, 66);
+        margin-left: 100px;
+        margin-right: 100px;
+        gap: 30px;
+    }
+
+    .love {
+        width: 450px;
+        display: grid;
+        height: 200px;
+        color: rgb(77, 72, 66);
+        margin-left: 100px;
+        margin-right: 0px;
+    }
+
+    .love .c {
+        width: 500px;
+        margin-left: 30px;
+        font-family: "Cormorant_Infant";
+        font-size: 60px;
+        font-style: italic;
+        color: rgb(92, 87, 80);
+    }
+
+    .love .d {
+        color: rgb(77, 72, 66);
+        font-family: "Cormorant_Infant";
+        font-style: italic;
+        font-size: 15px;
+        margin-left: 30px;
+    }
+
+    .knopka p {
+        color: rgb(141, 127, 109);
+        text-transform: uppercase;
+        border: 1px solid rgb(141, 127, 109);
+        padding: 15px 30px;
+        border-radius: 30px;
+        width: 100px;
+        margin-left: 370px;
+        margin-top: 100px;
+    }
+
+    .container7 {
+        width: 800px;
+        height: 500px;
+        display: flex;
+        margin-left: 0px;
+        justify-content: space-between;
+    }
+
+    .miloooooo {
+        margin-top: 80px;
+        width: 200px;
+        margin-left: 40px;
+    }
+
+    .imggg {
+        margin-top: 180px;
+        width: 200px;
+        display: flex;
+        justify-content: space-between;
+        margin-right: 30px;
+    }
+
+    .sankttt {
+        margin-top: 150px;
+        width: 250px;
+        margin-left: 30px;
+        color: rgb(141, 127, 109);
+        font-weight: bold;
+    }
+
+
+
+}
+
+@media (max-width: 576px) {
+    .container{
+        width:  98%;
+    }
+
+    .container .history {
+        color: rgb(141, 127, 109);
+        display: block;
+        width: 165px;
+        justify-content: space-between;
+        font-size: 15px;
+        align-items: center;
+    }
+
+    .container .principi {
+        color: rgb(141, 127, 109);
+        display: block;
+        width: 270px;
+        justify-content: space-between;
+        font-size: 15px;
+        align-items: center;
+        margin-left: 100px;
+    }
+
+    .container .logo {
+        color: rgb(92, 87, 80);
+        font-size: 25px;
+        font-family: "Cormorant_Infant";
+        font-weight: 800;
+        margin-left: 130px;
+    }
+
+    .krasota p {
+        color: rgb(92, 87, 80);
+        font-family: "Cormorant_Infant";
+        font-weight: 400;
+        font-size: 40px;
+        position: relative;
+        bottom: 100px;
+        display: flex;
+        flex-wrap: wrap;
+        width: 300px;
+        margin-left: 100px;
+    }
+
+    .krasota .photos img:nth-child(2) {
+        height: 300px;
+        position: relative;
+        bottom: 270px;
+        right: 650px;
+    }
+
+    .krasota .photo img {
+        height: 110px;
+    }
+
+    .krasota .photos img:nth-child(1) {
+        position: relative;
+        right: 450px;
+        top: -200px;
+        height: 100px;
+    }
+
+    .krasota .photos img:nth-child(3) {
+        position: relative;
+        right: 730px;
+        top: -230px;
+        height: 100px;
+    }
+
+    .podzagolovok p {
+        color: rgb(126, 116, 104);
+        font-family: "Cormorant_Infant";
+        font-size: 25px;
+        font-style: italic;
+        width: 400px;
+        line-height: 100%;
+        position: relative;
+        left: 30px;
+    }
+
+    .textt {
+        display: flex;
+        font-family: "Cormorant_Infant";
+        width: 160px;
+        justify-content: space-between;
+        margin-left: 100px;
+    }
+
+    .ovsanoe img {
+        width: 200px;
+        height: 250px;
+    }
+
+    .rosa img{
+        width: 200px;
+        height: 250px;
+        margin-left: 100px;
+    }
+
+    .texttt:nth-child(1) {
+        display: flex;
+        justify-content: space-between;
+        color: rgb(141, 127, 109);
+        margin-left: 100px;
+        height: 200px;
+        width: 200px;
+    }
+
+    .plusik {
+        font-size: 20px;
+        border: 1px solid rgb(141, 127, 109);
+        border-radius: 100%;
+        color: rgb(141, 127, 109);
+
+    }
+
+    .beloe img {
+        width: 100px;
+        height: 200px;
+        margin-top: 60px;
+    }
+
+    .texttt p{
+        font-size: 10px;
+    }
+
+    .container2 {
+        width: 600px;
+        display: flex;
+        margin-left: 50px;
+        justify-content: space-between;
+    }
+
+    .text1 {
+        width: 600px;
+        font-family: "Cormorant_Infant";
+        font-size: 45px;
+        font-style: italic;
+        color: rgb(92, 87, 80);
+        margin-left: 20px;
+    }
+
+    .texttttt {
+        width: 300px;
+        height: 160px;
+        font-family: "Cormorant_Infant";
+        font-size: 15px;
+        margin-bottom: 20px;
+        margin-left: 20px;
+    }
+
+    .text2 {
+        display: flex;
+
+    }
+
+    .text2 img {
+        height: 30px;
+        width: 30px;
+        border-radius: 100%;
+        margin-left: 20px;
+    }
+
+    .imgg .mila {
+        text-decoration: underline;
+        color: rgb(141, 127, 109);
+        font-size: 10px;
+    }
+
+    .imgg p{
+        font-size: 10px;
+    }
+
+    .imgg {
+        margin-left: 10px;
+        margin-top: 2px;
+        color: rgb(141, 127, 109);
+    }
+
+    .photochki img:nth-child(1) {
+        height: 80px;
+        width: 80px;
+        margin-left: -40px;
+        margin-bottom: 50px;
+    }
+
+    .photochki img:nth-child(2) {
+        height: 300px;
+        margin-top: 50px;
+        margin-left: -50px;
+    }
+
+    .photochki img:nth-child(3) {
+        height: 200px;
+        position: relative;
+        bottom: 60px;
+        left: 20px;
+    }
+
+    .infa:nth-child(1) {
+        width: 150px;
+        font-size: 10px;
+        display: flex;
+        flex-direction: column;
+        color: rgb(141, 127, 109);
+        font-family: "Cormorant_Infant";
+        font-style: italic;
+    }
+
+    .infa:nth-child(2) {
+        width: 150px;
+        font-size: 10px;
+        display: flex;
+        flex-direction: column;
+        color: rgb(141, 127, 109);
+        font-family: "Cormorant_Infant";
+        font-style: italic;
+    }
+    .infa:nth-child(3) {
+        width: 150px;
+        font-size: 10px;
+        display: flex;
+        flex-direction: column;
+        color: rgb(141, 127, 109);
+        font-family: "Cormorant_Infant";
+        font-style: italic;
+    }
+
+    .informacia {
+        display: flex;
+        gap: 35px;
+    }
+
+    .ikonka img{
+        height: 30px;
+    }
+
+    .zadnii-text p {
+        color: rgba(97, 89, 77, 0.212);
+        font-family: "Cormorant_Infant";
+        font-size: 60px;
+        line-height: 0;
+        display: grid;
+        text-align: center;
+        font-weight: bold;
+    }
+
+    .devyshka {
+        background-image: url(/assets/img/13.jpg);
+        background-size: cover;
+        width: 320px;
+        height: 200px;
+        position: relative;
+        bottom: 240px;
+        left: 90px;
+    }
+
+    .a {
+        display: grid;
+        height: 50px;
+        width: 300px;
+        font-size: 10px;
+        text-align: center;
+        color: rgb(255, 255, 255);
+        font-weight: 100;
+        margin-top: 30px;
+        margin-left: 10px;
+    }
+
+    .b {
+        color: rgb(255, 255, 255);
+        font-weight: 100;
+        font-size: 10px;
+        border-radius: 30px;
+        margin-left: 110px;
+        margin-top: 30px;
+        border: 1px solid rgb(245, 237, 228);
+        width: 100px;
+        height: 20px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .container5{
+        margin-top: 100px;
+    }
+
+    .photosi img {
+        height: 80px;
+    }
+
+
+    .photosi {
+        width: 500px;
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .pomogiti {
+        display: grid;
+        align-items: center;
+        justify-content: center;
+        width: 700px;
+    }
+
+    .love .c {
+        width: 300px;
+        margin-left: 190px;
+        font-family: "Cormorant_Infant";
+        font-size: 50px;
+        font-style: italic;
+        color: rgb(92, 87, 80);
+    }
+
+    .love .d {
+        color: rgb(77, 72, 66);
+        font-family: "Cormorant_Infant";
+        font-style: italic;
+        font-size: 15px;
+        margin-left: 190px;
+        margin-bottom: 50px;
+    }
+
+    .regis {
+        width: 150px;
+        display: grid;
+        height: 200px;
+        color: rgb(77, 72, 66);
+        margin-right: 300px;
+        gap: 30px;
+    }
+
+    .knopka p {
+        color: rgb(141, 127, 109);
+        text-transform: uppercase;
+        border: 1px solid rgb(141, 127, 109);
+        padding: 15px 30px;
+        border-radius: 30px;
+        width: 100px;
+        margin-left: 450px;
+        margin-top: 100px;
+    }
+
+    .container7 {
+        width: 500px;
+        height: 500px;
+        display: flex;
+        margin-left: 0px;
+        justify-content: space-between;
+    }
+
+    .miloooooo p:nth-child(1) {
+        color: rgb(214, 214, 214);
+        font-size: 25px;
+        font-family: "Cormorant_Infant";
+        margin-bottom: 10px;
+    }
+
+    .miloooooo p:nth-child(2) {
+        color: rgb(141, 127, 109);
+        font-size: 10px;
+        font-weight: bold;
+    }
+
+    .ok {
+        font-size: 10px;
+        margin-top: 40px;
+        color: rgb(141, 127, 109);
+        font-weight: bold;
+    }
+
+    .sankttt {
+        margin-top: 150px;
+        width: 250px;
+        margin-left: 30px;
+        color: rgb(141, 127, 109);
+        font-weight: bold;
+        font-size: 10px;
+    }
+
+    .imggg {
+        margin-top: 180px;
+        width: 100px;
+        display: flex;
+        justify-content: space-between;
+        margin-right: 20px;
+    }
+
+    .imggg .pochti {
+        height: 35px;
+        width: 35px;
+        border: 1px solid rgb(170, 162, 152);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        border-radius: 50%;
+    }
+
+    .imggg .pochti2 {
+        height: 35px;
+        width: 35px;
+        border: 1px solid rgb(170, 162, 152);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        border-radius: 50%;
+    }
+
+    .imggg .pochti1 {
+        height: 35px;
+        width: 35px;
+        border: 1px solid rgb(170, 162, 152);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        border-radius: 50%;
+    }
+
+}
+
+@media (max-width: 480px) {
+    .container{
+        width:  98%;
+    }
+
+    .container .history {
+        color: rgb(141, 127, 109);
+        display: block;
+        width: 15px;
+        justify-content: space-between;
+        font-size: 15px;
+        align-items: center;
+    }
+
+    .container .principi {
+        color: rgb(141, 127, 109);
+        display: block;
+        width: 270px;
+        justify-content: space-between;
+        font-size: 15px;
+        align-items: center;
+        margin-left: 100px;
+    }
+
+    .container .logo {
+        color: rgb(92, 87, 80);
+        font-size: 25px;
+        font-family: "Cormorant_Infant";
+        font-weight: 800;
+        margin-left: 130px;
+    }
+
+    .krasota p {
+        color: rgb(92, 87, 80);
+        font-family: "Cormorant_Infant";
+        font-weight: 400;
+        font-size: 40px;
+        position: relative;
+        bottom: 100px;
+        display: flex;
+        flex-wrap: wrap;
+        width: 300px;
+        margin-left: 100px;
+        right: 50px;
+    }
+
+    .krasota .photos img:nth-child(2) {
+        height: 300px;
+        position: relative;
+        bottom: 270px;
+        right: 750px;
+    }
+
+    .krasota .photo img {
+        height: 100px;
+    }
+
+    .krasota .photos img:nth-child(1) {
+        position: relative;
+        right: 520px;
+        top: -200px;
+        height: 100px;
+    }
+
+    .krasota .photos img:nth-child(3) {
+        position: relative;
+        right: 800px;
+        bottom: 50px;
+        height: 80px;
+    }
+
+    .podzagolovok p {
+        color: rgb(126, 116, 104);
+        font-family: "Cormorant_Infant";
+        font-size: 25px;
+        font-style: italic;
+        width: 400px;
+        line-height: 100%;
+        position: relative;
+        left: 10px;
+    }
+
+    .textt {
+        display: flex;
+        font-family: "Cormorant_Infant";
+        width: 100px;
+        justify-content: space-between;
+        margin-left: 170px;
+    }
+
+    .podzagolovok img {
+        height: 150px;
+        position: relative;
+        right: 100px;
+        bottom: 20px;
+    }
+
+    .ovsanoe img {
+        width: 200px;
+        height: 250px;
+    }
+
+    .rosa img{
+        width: 200px;
+        height: 250px;
+        margin-left: 100px;
+    }
+
+    .texttt:nth-child(1) {
+        display: flex;
+        justify-content: space-between;
+        color: rgb(141, 127, 109);
+        margin-left: 100px;
+        height: 100px;
+        width: 100px;
+    }
+
+    .plusik {
+        font-size: 20px;
+        border: 1px solid rgb(141, 127, 109);
+        border-radius: 100%;
+        color: rgb(141, 127, 109);
+
+    }
+
+    .beloe img {
+        width: 100px;
+        height: 200px;
+        margin-top: 60px;
+    }
+
+    .texttt p{
+        font-size: 10px;
+
+    }
+
+    .container2 {
+        width: 600px;
+        display: flex;
+        margin-left: 50px;
+        justify-content: space-between;
+    }
+
+    .text1 {
+        width: 400px;
+        font-family: "Cormorant_Infant";
+        font-size: 35px;
+        font-style: italic;
+        color: rgb(92, 87, 80);
+        margin-left: 40px;
+    }
+
+    .texttttt {
+        width: 300px;
+        height: 160px;
+        font-family: "Cormorant_Infant";
+        font-size: 15px;
+        margin-bottom: 20px;
+        margin-left: 40px;
+    }
+
+    .textttt {
+        display: flex;
+        font-family: "Cormorant_Infant";
+        width: 150px;
+        justify-content: space-between;
+    }
+
+    .text2 {
+        display: flex;
+
+    }
+
+    .text2 img {
+        height: 30px;
+        width: 30px;
+        border-radius: 100%;
+        margin-left: 40px;
+    }
+
+    .imgg .mila {
+        text-decoration: underline;
+        color: rgb(141, 127, 109);
+        font-size: 10px;
+    }
+
+    .imgg p{
+        font-size: 10px;
+    }
+
+    .imgg {
+        margin-left: 10px;
+        margin-top: 2px;
+        color: rgb(141, 127, 109);
+    }
+
+    .photochki img:nth-child(1) {
+        height: 80px;
+        width: 80px;
+        margin-left: -70px;
+        margin-bottom: 50px;
+    }
+
+    .photochki img:nth-child(2) {
+        height: 300px;
+        margin-top: 50px;
+        margin-left: -100px;
+    }
+
+    .photochki img:nth-child(3) {
+        height: 150px;
+        position: relative;
+        bottom: 10px;
+        left: 0px;
+    }
+
+    .infa:nth-child(1) {
+        width: 130px;
+        font-size: 8px;
+        display: flex;
+        flex-direction: column;
+        color: rgb(141, 127, 109);
+        font-family: "Cormorant_Infant";
+        font-style: italic;
+        margin-top: 10px;
+    }
+
+    .infa:nth-child(2) {
+        width: 130px;
+        font-size: 8px;
+        display: flex;
+        flex-direction: column;
+        color: rgb(141, 127, 109);
+        font-family: "Cormorant_Infant";
+        font-style: italic;
+    }
+    .infa:nth-child(3) {
+        width: 130px;
+        font-size: 8px;
+        display: flex;
+        flex-direction: column;
+        color: rgb(141, 127, 109);
+        font-family: "Cormorant_Infant";
+        font-style: italic;
+    }
+
+    .informacia {
+        display: flex;
+        gap: 30px;
+    }
+
+    .ikonka img{
+        height: 30px;
+    }
+
+    .zadnii-text p {
+        color: rgba(97, 89, 77, 0.212);
+        font-family: "Cormorant_Infant";
+        font-size: 50px;
+        line-height: 0;
+        display: grid;
+        text-align: center;
+        font-weight: bold;
+    }
+
+    .devyshka {
+        background-image: url(/assets/img/13.jpg);
+        background-size: cover;
+        width: 300px;
+        height: 180px;
+        position: relative;
+        bottom: 200px;
+        left: 70px;
+    }
+
+    .a {
+        display: grid;
+        height: 50px;
+        width: 200px;
+        font-size: 10px;
+        text-align: center;
+        color: rgb(255, 255, 255);
+        font-weight: 100;
+        margin-top: 30px;
+        margin-left: 50px;
+    }
+
+    .b {
+        color: rgb(255, 255, 255);
+        font-weight: 100;
+        font-size: 10px;
+        border-radius: 30px;
+        margin-left: 100px;
+        margin-top: 30px;
+        border: 1px solid rgb(245, 237, 228);
+        width: 100px;
+        height: 20px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .container5{
+        margin-top: 150px;
+    }
+
+    .photosi img {
+        height: 80px;
+    }
+
+
+    .photosi {
+        width: 450px;
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .pomogiti {
+        display: grid;
+        align-items: center;
+        justify-content: center;
+        width: 500px;
+    }
+
+    .love .c {
+        width: 300px;
+        margin-left: 230px;
+        font-family: "Cormorant_Infant";
+        font-size: 40px;
+        font-style: italic;
+        color: rgb(92, 87, 80);
+    }
+
+    .love .d {
+        color: rgb(77, 72, 66);
+        font-family: "Cormorant_Infant";
+        font-style: italic;
+        font-size: 15px;
+        margin-left: 230px;
+        margin-bottom: 50px;
+    }
+
+    .regis {
+        width: 130px;
+        display: grid;
+        height: 200px;
+        color: rgb(77, 72, 66);
+        margin-right: 300px;
+        gap: 20px;
+    }
+
+    .knopka p {
+        color: rgb(141, 127, 109);
+        text-transform: uppercase;
+        border: 1px solid rgb(141, 127, 109);
+        padding: 15px 30px;
+        border-radius: 30px;
+        width: 100px;
+        margin-left: 460px;
+        margin-top: 100px;
+    }
+
+    .container7 {
+        width: 500px;
+        height: 500px;
+        display: flex;
+        margin-left: 0px;
+        justify-content: space-between;
+    }
+
+    .miloooooo p:nth-child(1) {
+        color: rgb(214, 214, 214);
+        font-size: 25px;
+        font-family: "Cormorant_Infant";
+        margin-bottom: 10px;
+    }
+
+    .miloooooo p:nth-child(2) {
+        color: rgb(141, 127, 109);
+        font-size: 10px;
+        font-weight: bold;
+    }
+
+    .ok {
+        font-size: 10px;
+        margin-top: 40px;
+        color: rgb(141, 127, 109);
+        font-weight: bold;
+    }
+
+    .sankttt {
+        margin-top: 150px;
+        width: 250px;
+        margin-left: 30px;
+        color: rgb(141, 127, 109);
+        font-weight: bold;
+        font-size: 10px;
+    }
+
+    .imggg {
+        margin-top: 180px;
+        width: 100px;
+        display: flex;
+        justify-content: space-between;
+        margin-right: 20px;
+    }
+
+    .imggg .pochti {
+        height: 35px;
+        width: 35px;
+        border: 1px solid rgb(170, 162, 152);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        border-radius: 50%;
+    }
+
+    .imggg .pochti2 {
+        height: 35px;
+        width: 35px;
+        border: 1px solid rgb(170, 162, 152);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        border-radius: 50%;
+    }
+
+    .imggg .pochti1 {
+        height: 35px;
+        width: 35px;
+        border: 1px solid rgb(170, 162, 152);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        border-radius: 50%;
+    }
+
+}
+
+
